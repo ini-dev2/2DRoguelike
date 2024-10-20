@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638650423713408055
-    m_Hash: 3377149354
+      ticks: 638650432827496170
+    m_Hash: 3258477328
   m_LockFileStatus:
     m_FilePath: C:/projects/Unity/2DRoguelike/Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638650423713448052
-    m_Hash: 2069242953
+      ticks: 638650432827496170
+    m_Hash: 2037512342
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
